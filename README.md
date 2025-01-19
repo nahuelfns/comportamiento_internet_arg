@@ -34,7 +34,7 @@ Instalación:
 - Para_PwrBI: archivos utilizados para el dashboard
 - requirements1.txt: contiene las dependencias a instalar
 - README.md: descripción del proyecto
-- Dashboard_SPI: panel con la presentación de un resumen visual de las métricas clave para explicar el comportamiento del sector en Argentina.
+- Presentacion_Internet: dashboard con la presentación de un resumen visual de las métricas clave para explicar el comportamiento del sector en Argentina.
 
 ### Datos y fuentes
 
