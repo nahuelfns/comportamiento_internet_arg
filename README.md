@@ -29,36 +29,36 @@ Instalación:
 
 ### Estructura del proyecto
 
-•	Datasets: Contiene los archivos de datos.
-•	notebooks: Jupyter notebooks con los EDA
-•	Para_PwrBI: archivos utilizados para el dashboard
-•	Requirements.txt: contiene las dependencias a instalar
-•	README.md: descripción del proyecto
-•	Dashboard: panel con la presentación de un resumen visual de las métricas clave para explicar el comportamiento del sector en Argentina.
+- Datasets: Contiene los archivos de datos.
+- notebooks: Jupyter notebooks con los EDA
+- Para_PwrBI: archivos utilizados para el dashboard
+- Requirements.txt: contiene las dependencias a instalar
+- README.md: descripción del proyecto
+- Dashboard: panel con la presentación de un resumen visual de las métricas clave para explicar el comportamiento del sector en Argentina.
 
 ### Datos y fuentes
 
--	ENACOM: https://indicadores.enacom.gob.ar/datos-abiertos (Internet)
--	Valor dólar: dineroeneltiempo.com
+- ENACOM: https://indicadores.enacom.gob.ar/datos-abiertos (Internet)
+- Valor dólar: dineroeneltiempo.com
 
 ### Metodología
 
-•	Identificación de patrones, anomalías, relaciones y distribuciones de los datos.
-•	Creación de gráficos como para identificar tendencias y patrones visualmente.
-•	Formulacíon de insights iniciales basadas en las observaciones
+- Identificación de patrones, anomalías, relaciones y distribuciones de los datos.
+- Creación de gráficos como para identificar tendencias y patrones visualmente.
+- Formulacíon de insights iniciales basadas en las observaciones
 
 ### Visualizaciones
 
 Los EDA incluyen:
-•	Observación de tamaño y estructura del df.
-•	Creación de columna en los necesarios.
-•	Tratamiento de valores NaN ya sea reemplazándolos o eliminándolos según lo amerite la columna en la que se encuentran.
-•	Eliminación de columnas innecesarias.
-•	Transformación de tipo de dato de columnas.
-•	Búsqueda de outliers y duplicados
-•	Gráficos interactivos para análisis en profundidad de los datasets
-•	Uso de markdowns para Insigths y explicación de los pasos seguidos 
-•	Joins de tablas
+- Observación de tamaño y estructura del df.
+- Creación de columna en los necesarios.
+- Tratamiento de valores NaN ya sea reemplazándolos o eliminándolos según lo amerite la columna en la que se encuentran.
+- Eliminación de columnas innecesarias.
+- Transformación de tipo de dato de columnas.
+- Búsqueda de outliers y duplicados
+- Gráficos interactivos para análisis en profundidad de los datasets
+- Uso de markdowns para Insigths y explicación de los pasos seguidos
+- Joins de tablas
 
 ### Conclusiones
 
