@@ -32,7 +32,7 @@ Instalación:
 - Datasets: Contiene los archivos de datos.
 - notebooks: Jupyter notebooks con los EDA
 - Para_PwrBI: archivos utilizados para el dashboard
-- Requirements.txt: contiene las dependencias a instalar
+- Requirements1.txt: contiene las dependencias a instalar
 - README.md: descripción del proyecto
 - Dashboard: panel con la presentación de un resumen visual de las métricas clave para explicar el comportamiento del sector en Argentina.
 
