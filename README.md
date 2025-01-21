@@ -22,7 +22,7 @@ Requisitos:
 -	Matplotlib
 -	Seaborn
 -	Power Bi  2.139.1678.0 64-bit o superior
--	
+  
 Instalación:
 -	Clonar el repositorio: git clone https://github.com/nahuelfns/Primer_proyecto_individual.git cd Segundo_proyecto_individual
 -	Instalar las dependencias: pip install -r requirements.txt
@@ -31,7 +31,6 @@ Instalación:
 
 - Datasets: Contiene los archivos de datos.
 - Notebooks: Jupyter notebooks con los EDA
-- Para_PwrBI: archivos utilizados para el dashboard
 - requirements1.txt: contiene las dependencias a instalar
 - README.md: descripción del proyecto
 - Presentacion_Internet: dashboard con la presentación de un resumen visual de las métricas clave para explicar el comportamiento del sector en Argentina.
@@ -62,7 +61,7 @@ Los EDA incluyen:
 
 ### Conclusiones
 
-El análisis de los datos de acceso y velocidad de internet en Argentina revela varias tendencias y observaciones importantes.1
+El análisis de los datos de acceso y velocidad de internet en Argentina revela varias tendencias y observaciones importantes.
 
 Las velocidades de conexión están experimentando un incremento general, impulsado primeramente por el reemplazo del ADSL por el cablemódem y a partir del 2019 por la adopción de tecnologías más avanzadas, como la fibra óptica.
 
@@ -70,7 +69,7 @@ A pesar de que la fibra óptica aún representa un modesto 12% del total de cone
 
 El acceso a velocidades de internet más altas no está uniformemente distribuido entre las provincias, evidenciando una brecha significativa en la infraestructura de telecomunicaciones. Las provincias más ricas tienden a tener acceso a mayores velocidades, pero esto no siempre se traduce en un mayor número de accesos. La oferta y demanda de servicios de internet varían significativamente entre regiones, lo que afecta tanto la velocidad como la cantidad de accesos.
 
-La baja inversión en conectividad wireless, salvo algunas excepciones como la política implementada de WiFi gratis en San Luis, ha resultado en los niveles más bajos de acceso, algo entendible por sus contras como pueden ser la susceptibilidad a interferencias y obstrucciones físicas y que las velocidades y  estabilidad pueden variar según la distancia del punto de acceso y la cantidad de dispositivos conectados.
+La baja inversión en conectividad wireless, salvo algunas excepciones como la política implementada de WiFi gratis en San Luis, ha resultado en los niveles más bajos de acceso, algo entendible por sus contras como pueden ser la susceptibilidad a interferencias y obstrucciones físicas y que las velocidades y estabilidad pueden variar según la distancia del punto de acceso y la cantidad de dispositivos conectados.
 
 Ante este análisis Argentina es un mercado prometedor, lo que se infiere de los ingresos en dólares en el sector durante estos últimos 10 años que, aunque con algunos vaivenes, siempre fueron en aumento.
 
